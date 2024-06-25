@@ -23,7 +23,7 @@ You should see all unit tests passing successfully.
 ## Built With
 
 - C# programming language
-- NUnit framework
+- XUnit framework
 
 ## Authors
 
